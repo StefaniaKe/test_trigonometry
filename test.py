@@ -10,7 +10,9 @@ def surf_area_circle(r):
 	
 	It takes the radius r as an argument
 	Than it calculates the surface by squaring it and putting a pi after it
-	"""
+	
+
+	This function takes'r` and calculates surf. area"""
 
 
 	y2 = pi * r**2
