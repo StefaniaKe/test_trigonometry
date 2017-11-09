@@ -17,3 +17,12 @@ def surf_area_circle(r):
 
 	y2 = pi * r**2
 	return y2
+
+
+#I will add how to calculate the surface of a square
+
+def surface_square(x)
+	y=x**2
+	return y
+
+
