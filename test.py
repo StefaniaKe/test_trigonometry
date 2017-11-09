@@ -6,5 +6,12 @@ def circumf_circle(r):
 	return y
 
 def surf_area_circle(r):
+	"""This function calculates the surface of a circle
+	
+	It takes the radius r as an argument
+	Than it calculates the surface by squaring it and putting a pi after it
+	"""
+
+
 	y2 = pi * r**2
 	return y2
