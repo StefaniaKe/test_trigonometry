@@ -19,4 +19,10 @@ def surf_area_circle(r):
 	return y2
 
 
-I am adding some text.
+
+#I will add how to calculate the surface of a square
+
+def surface_square(x)
+	y=x**2
+	return y
+
